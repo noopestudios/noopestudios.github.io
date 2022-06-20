@@ -1,0 +1,290 @@
+NOOPE TERMS OF SERVICE
+The “NOOPE SERVICE AGREEMENT” (hereinafter referred to as the “agreement”) is jointly concluded by you and NOOPE game service provider NOOPE (Beijing) Information Technology Co., LTD.This agreement shall have the contract effect. In order to protect your legitimate rights and interests, you must carefully read and fully understand all the terms and conditions of this agreement before you agree and accept them, especially the terms of exemption or limitation of liability, and the separate agreement to open or use a certain service. Restrictions and disclaimers may be bolded for your attention.When you click to log into the game online, it is deemed that you have read and understood the entire content of this agreement and agree to abide by the provisions of this agreement. Unless you have read and accepted all the terms of this agreement, you are not entitled to use the NOOPE game service. By using the NOOPE game service, you are deemed to have read and agreed to sign this agreement.
+
+If you are under the age of 18, please read this agreement with your legal guardian and pay special attention to the terms of use for minors.
+
+In case of any changes to this agreement, the changes will be published on the homepage of NOOPE website http://www.noopestudios.com. Once the changed terms of service are published on the homepage of the website, the original terms of service will be effectively replaced,users are not notified individually. If you do not agree to change the terms of service, you should stop using or take the initiative to cancel the relevant services, otherwise, any of your login to the relevant services, view and other behavior will be deemed to be your understanding and acceptance of the relevant changes. The developer and the user agree, understand and abide by the following terms and conditions, which not only apply to the NOOPE game service, but also apply to the developer’s other related services in the case of similar and relevant circumstances, and are binding.
+
+Chapter 1 definition
+Unless otherwise stated, the following terms have the following meanings in this agreement:
+
+1.1 This agreement: refers to the body of this agreement, the rules of the game and the revised version thereof. Once the above contents are officially published, they shall be an integral part of this agreement. This agreement also includes the “Mandatory Terms for Online Game Service Formatting Agreement” formulated by the Ministry of Culture’s “Interim Measures for the Management of Online Games” (Ministry of Culture Order No. 49). If this agreement conflicts with any of the terms in the Mandatory Terms for Online Game Service Formatting Agreement, the content of the conflict shall be the agreement in the Mandatory Terms for Online Game Service Formatting Agreement. If you need to use other services provided by NOOPE, you should also abide by the terms of service agreements related to these services, and these agreements will also form an integral part of this agreement.
+
+1.2 Rules of the game: refers to the user rules, player regulations, game announcements and notifications of NOOPE games published and revised from time to time by the game service provider of NOOPE.
+
+1.3 NOOPE game service provider: refers to NOOPE (Beijing) Information Technology Co., LTD. and its affiliates that provide you with NOOPE games and services, which is referred to as “NOOPE” in this agreement.
+
+1.4 NOOPE games: refers to the general name of the games operated by NOOPE, mainly referring to mobile games.
+
+1.5 NOOPE game service: refers to various game-related services provided to you by NOOPE, including but not limited to user consultation and complaints.
+
+1.6 NOOPE game components: refers to the content and information such as text, pictures, audio, video, icons, interface design, layout framework, related data or electronic documents contained in and related to the NOOPE game.
+
+1.7 You: also known as “Player” or “User” means a natural person authorized to use NOOPE products and services.
+
+1.8 Game data: refers to various data recorded by the server during your use of NOOPE games, including but not limited to game logs and security logs and other data..
+
+1.9 Illegal recharge: It refers to any recharge channel other than the payment channel accessed in the official version of NOOPE game.
+
+1.10 Virtual items: including but not limited to virtual currencies, props, equipment, materials, etc. in NOOPE games.
+
+1.11 User information: refers to the information you register in the real-name registration system, the game data under your game account, and other information that you provide to NOOPE during the use of NOOPE game services or the information and data that NOOPE needs to collect based on considerations such as security and user experience optimization.
+
+Chapter 2 Declaration of Intellectual Property Rights
+2.1 NOOPE enjoys the ownership of the NOOPE game itself and the components of the NOOPE game and all related intellectual property rights, except for the rights that third- party rights holders should enjoy in accordance with legal provisions or other agreements.
+
+2.2 The ownership of the game data and all related intellectual property rights in the use of the NOOPE game service belongs to NOOPE, and NOOPE has the right to dispose of the game data.
+
+2.3 This Agreement shall not be construed as a license or transfer of any rights or benefits related to NOOPE games and NOOPE game components to you by NOOPE.
+
+2.4 Regarding the intellectual property rights enjoyed by third parties involved in NOOPE games and NOOPE game components, you shall use them in the manner specified in this agreement. Any infringement of the intellectual property rights enjoyed by any third party due to your violation of the provisions of this agreement or other unilateral reasons shall be solely your responsibility and shall compensate NOOPE for any losses suffered.
+
+Chapter 3 Acquisition, Use and Custody of Game Accounts
+3.1 Obtaining Game Accounts
+
+(1) If you need to use and enjoy NOOPE games and NOOPE game services, you must fully agree to the terms of this agreement, in accordance with the “Interim Measures for the Management of Online Games” and the “Mandatory Terms for Online Game Service Formatting Agreement” of the Ministry of Culture and complete the registration process in accordance with the requirements of the registration page, including but not limited to entering the correct basic materials and information. The user promises to register with his real identity, including but not limited to real-name authentication in accordance with the requirements of the NOOPE game, and agrees to submit the completed information to a third- party agency for verification, and guarantees that the materials and information provided by him are true, complete, effectively, the user assumes corresponding legal responsibility for the information provided in accordance with the legal provisions and this agreement.
+
+(2) If you successfully register, you will get the corresponding account, and you can log in the game and/or use the relevant services.
+
+(3) If you refuse to provide the relevant materials and information as required, or the materials and information provided do not meet the requirements, NOOPE has the right to refuse to provide the relevant services or assume any obligations. If there is any change in the materials and information provided by you, you should timely update, and NOOPE will provide the service in a timely manner. NOOPE has the right to refuse to provide any information or assume any obligation if the game account information is changed and not modified in time, which makes it impossible to prove your valid identity.
+
+(4) You only have the right to use the game account you created, and the ownership of the game account belongs to NOOPE.
+
+(5) You fully understand and agree that NOOPE has the right to check whether the identity information provided by your registration is true and valid, and has the right to take reasonable measures such as technology and management to ensure the security and effectiveness of your game account. NOOPE will apply your real-name registration information to the anti-addiction system in accordance with relevant national requirements, that is, NOOPE may judge whether you are over 18 years old according to your real-name registration information, so as to decide whether to impose anti-addiction restrictions on your game account.
+
+3.2 Use and Custody of User Accounts
+
+(1) You are obliged to properly custody your game account and relevant password, and use your game account and password correctly and securely.The game account you register in accordance with this agreement is only used for your personal entertainment or consumption purposes. You have the rights and responsibilities according to law for the behaviors of the game account held after you log in. You must not share the game account with a third party or transfer, give it to others, or ask others to practice, etc., because you do not properly keep accounts and passwords, nor correctly and safely use account and password result in such as bank account password is lost, stolen, damage to you and the civil rights of others, you need to bear the legal responsibility.
+
+(2) You shall immediately notify NOOPE when you know that your account or password has been illegally used, stolen or abnormal by others, and have the obligation to notify NOOPE to take measures to suspend the login and use of the game account.
+
+(3) If NOOPE takes measures to suspend the login and use of user account according to your notice, NOOPE has the right to ask you to provide and verify your valid personal identity information consistent with your registered identity information. NOOPE verify your personal valid identity information is consistent with the registration by the identity information, and shall timely take measures to suspend user account login and use, if the information is verified, NOOPE has not taken measures to suspend the login and use of the user account in a timely manner, and have caused damages to the user, shall bear the corresponding legal responsibility. If you do not provide your personal valid identity certificate or the personal valid identity certificate you provide is inconsistent with the registered identity information, NOOPE has the right to refuse your request to suspend the login and use of the game account.
+
+(4) You fully understand and agree that, in order to improve the security level of NOOPE game services, NOOPE has the right to apply the relevant technology or software to NOOPE games, but NOOPE does not guarantee that these security measures can completely eliminate the risk of the game account being stolen or lost by others.
+
+(5) You fully understand and agree that if NOOPE restricts, freezes or terminates the use of your game account in accordance with relevant business rules, it may cause the game data and related information under your game account to be deleted, as well as the loss of relevant rights and interests, such loss shall be borne by you, for which NOOPE shall not bear any responsibility.
+
+(6) You fully understands and agrees that, for the efficient use of server resources, if you are not used for a long time game account login NOOPE, NOOPE reserves the right to take measures such as deletion of the game account and the game data and related information under the account, if necessary, in advance. The above measurest may cause you to lose related rights and interests in the game account. NOOPE assumes no responsibility.
+
+(7) If you provide NOOPE with valid personal identity information that is consistent with the registered identity information in order to protect your legitimate rights and interests, NOOPE agree according to the requirement of the administrative organs and judicial organs to provide you with account registrant certificate, the original registration information and other necessary assistance and support, and according to the information needs and provide the relevant evidence to the departments.
+
+Chapter 4 Collection, Use and Protection of User Information
+4.1 You agree and authorize NOOPE to collect and use your user information for the purpose of performing this agreement. The collection, use, sharing, storage and management of personal information contained in your user information by NOOPE will comply with the NOOPE PRIVACY POLICY published by NOOPE and relevant laws and regulations.
+
+4.2 You fully understand and agree that if you use the NOOPE game service to disclose your various property accounts, bank CARDS, credit CARDS, corresponding passwords and other important materials and information to others, any loss caused thereby will be borne by you.
+
+Chapter 5 NOOPE Games and NOOPE Game Services
+5.1 You can only use NOOPE games and NOOPE game services for non-commercial purposes by:
+
+(1) receive, download, install, start, upgrade, login, display, run and/or take screenshots of NOOPE games;
+
+(2) create game characters, set usernames, consult game rules, user personal information, game results, set game parameters, and purchase, use and give away virtual items in the game through proper ways.
+
+(3) use one or more other functions supported and allowed by NOOPE games.
+
+Any other unauthorized installation, use, access, display, operation, and transfer by you will be deemed a breach of this agreement.
+
+5.2 During the use of NOOPE game services, you shall not record and disseminate NOOPE game contents to others in any way without the permission of NOOPE, including using any third-party software for network dissemination.
+
+5.3 If NOOPE find or receive others to report complaints or your violation of the agreement, NOOPE shall have the right to delete the related content at any time, without further notice and to regard plot behavior on the account to include but not limited to, warning, restrict or ban the use of all or part of the function, the account banned until cancellation penalty, and deal with the results announcement.
+
+5.4 You fully understand and agree that NOOPE shall have the right to according to the reasonable judgment of violation of the relevant laws and regulations or the provisions of this agreement for punishment, take appropriate legal action against any user who violates the law and regulations, according to the laws and regulations keep relevant information reported to the relevant departments, etc., the user should assume the resulting all legal responsibility alone.
+
+5.5 You fully understand and agree that you shall be solely liable for any claim, demand or loss claimed by a third party arising out of or arising from your breach of this agreement or the relevant terms of service; If NOOPE suffers losses as a result, you shall also compensate for them.
+
+5.6 You fully understand and agree that virtual items are part of the game service of NOOPE, and NOOPE hereby grants you the right to use them in accordance with this agreement. Your purchase and use of virtual items shall follow the requirements of this agreement and the specific rules of the game. At the same time, virtual items may be subject to a certain period of validity, if you do not use in the specified period of validity, except for force majeure or NOOPE attributable to the reason, once the expiry of validity, will automatically become invalid.
+
+5.7 You fully understand and agree that in order to create a fair and healthy game environment, NOOPE has the right to know your relevant terminal device information through technical means during your use of NOOPE game services. NOOPE will collect all relevant information and take reasonable measures to crack down on any unauthorized procedures that endanger the normal operation of NOOPE’s game services.
+
+5.8 You fully understand and agree that when you use the charging function of NOOPE games, you should pay the corresponding fees according to the requirements of NOOPE. Moreover, such rights belong to NOOPE’s business autonomy. NOOPE reserves the right to change its business model at any time, that is, it reserves the right to change the charging rate standard, charging software functions, charging objects and charging time. Meanwhile, NOOPE also reserves the right to upgrade, revision, add, delete, modify, change its functions or change the rules of the game. If you do not accept the changes, you should immediately stop using the application. Your continued use of the application is seen as your acceptance of the changed business model.
+
+5.9 You fully understand and agree that in order to guarantee the game speed of you and other users, NOOPE has the right to periodically transfer or clean up some past game data stored on NOOPE game server.
+
+5.10 You fully understand and agree that the game service you are using involves Internet services and may be affected by unstable factors in all aspects of the Internet. Therefore, the game service has the risk of service interruption or failure to meet user requirements caused by force majeure, virus or hacker attack, system instability, user’s location, user shutdown, and any other technology, Internet, communication lines. ?????
+
+For this reason, in the range of the applicable laws allow maximum ,NOOPE does not guarantee provided by the game service will be able to meet your requirements, also do not guarantee to provide game service will not be interrupted by physical attacks, and timeliness of game service, security, error occurs and whether information accurately, timely and smoothly transfer does not make any guarantee.
+
+5.11 You fully understand and agree that: When using NOOPE game service, there are from any others including threatening, defamatory, offensive or illegal content or conduct or invasions on the rights of others (including intellectual property rights) of anonymous or pseudonymous information risk, you must take the above risks, NOOPE for game service do not make any type of guarantee, either explicit or implicit, including all information about authenticity, applicability, suitability for a particular purpose, implied warranties and conditions of ownership and non-infringement, we will not be responsible for any direct, indirect, incidental, special or subsequent damages resulting from your improper or illegal use of the services.
+
+5.12 You fully understand and pay attention to the following:
+
+(1) NOOPE may update the application irregularly by releasing software update packages or software patches, online updates, etc. During the update process, NOOPE may retrieve, collect information about your personal client software version of the game, and automatically replace, modify, delete and/or supplement it. This behavior is a necessary operation or step of software update. If you do not agree with NOOPE for this operation, please do not update. The action you use is deemed to be your consent to NOOPE doing so.
+
+(2) For a game, some updates may be updates to the software version, and if you do not make such updates, you will not be able to log in to the application. Furthermore, this update will cause the original version of the software on the terminal you are using to be completely replaced by the new version of the software.
+
+(3) There may be various risks in obtaining game currency, game props, game equipment and other virtual items from a third party. You are not allowed to obtain the above game virtual items from a third party. If you insist on obtaining the above game virtual items from a third party, you shall bear the corresponding risks by yourself. NOOPE has the right to directly claim or delete such game virtual items.
+
+(4) The measures taken by NOOPE due to the violation of this agreement or regulations by the user, may cause the virtual items with a term of use under your current game account to be unable to continue to be used due to the expiration of the period when NOOPE takes the above measures, and the losses caused thereby shall be borne by you. That is, the duration of the above measures adopted by NOOPE is calculated in the usage period of virtual items with usage period; After the termination of the implementation of these measures, the period of use of virtual items will not be extended.
+
+5.13 NOOPE may provide you with customer services such as game rule description, bug (also known as vulnerability, defect, etc.) or plug-in complaint, game item retrieval, game item locking or unlocking, account complaint, etc. through the application of official website, customer service call, or other ways. The above services shall be provided on the basis of the following preconditions:
+
+(1) through the official customer service website of NOOPE or other ways provided by NOOPE to understand the content, requirements and fees of these customer services, carefully choose whether to enjoy the corresponding customer service, express your needs to NOOPE in a real and accurate way.
+
+(2) agree to and accept NOOPE’s specific agreements or terms regarding such customer service.
+
+(3) according to the requirements of NOOPE, provide your relevant personal information and game situation truthfully, as well as the situation of other users or the game itself that you have grasped, for example: your account and the personal information under it, game login situation and game item situation, application bug (also known as vulnerability, defects, etc.), plug-ins in the program, and other players you know are using bug (also known as vulnerability, defects, etc.) or plug-ins.
+
+5.14 NOOPE shall have the right to stop or interrupt the services provided by the game server under any of the following circumstances, and shall not be liable to users or any third party for any inconvenience or damage caused thereby:
+
+(1) NOOPE shall have the right to suspend the service in case of regular inspection or construction and update of software and hardware, but shall complete the maintenance and update as soon as possible;
+
+(2) the server is damaged and cannot operate normally;
+
+(3) sudden failure of hardware and software equipment and electronic communication equipment;
+
+(4) network provider line or other fault;
+
+(5) to safeguard national security or the personal safety of other users and third parties in case of emergency;
+
+(6) force majeure and other third parties reasons.
+
+5.15 NOOPE will be in accordance with the relevant laws and regulations and the provisions of this agreement, and take concrete and effective measures to protect the lawful rights and interests of
+
+minors in the process of using NOOPE game services, including possible technical measures, prohibiting minors from contacting inappropriate games or game functions, limiting minors’ game time, and preventing minors from addicting to the Internet. As part of the rules of the game, NOOPE will also release NOOPE user guidelines and warnings in appropriate locations, including descriptions of the game, ways to use the game properly, and ways to prevent harm. All minor users should carefully read and follow these guidelines and instructions under the guidance of their legal guardians; Other players should avoid publishing or producing any harmful content to the physical and mental health of minors in the process of using NOOPE game services, so as to jointly create a healthy game environment.
+
+Chapter 6 User Behavior Norms
+6.1 You fully understand and agree that you are responsible for all actions under your game account, including any actions you take and any consequences arising therefrom. You shall make your own judgment on the content in NOOPE games and assume all risks arising from the use of NOOPE game services, including risks arising from reliance on the correctness, completeness, or usefulness of NOOPE game content. NOOPE cannot and will not be liable for any loss or damage resulting from the foregoing risks.
+
+6.2 Except that you use NOOPE game services in accordance with the provisions of this agreement, you shall not do anything that infringes upon the intellectual property rights related to NOOPE games and components of NOOPE games, or do anything that will harm the legitimate rights and interests of NOOPE or other third parties.
+
+6.3 Unless permitted by law or permitted in writing by NOOPE, you shall not perform any of the following ACTS during the use of NOOPE game services, including but not limited to:
+
+(1) delete all copyright information and contents on the game and other copies;
+
+(2) reverse-engineer, reverse-assemble, reverse-compile or otherwise attempt to discover the source code of the software, and use or disclose such source code to any third party;
+
+(3) scan, explore and test the game software to detect, discover and find the bug (also known as vulnerability, defect, etc.) or weakness that may exist in it;
+
+(4) copy, modify, add, delete, hook up or create any derivative works for the data released to any terminal memory during the operation of the game software or software, the interactive data between the client and the server during the operation of the software, and the system data necessary for the operation of the software, including but not limited to the use of plug-ins, or unauthorized third-party tools / services access software and related systems;
+
+(5) modify or falsify the instructions and data in the operation of the software, add, delete or change the functions or operation effects of the software, or operate or disseminate the software and methods used for the above purposes to the public, whether or not the above-mentioned acts are for commercial purposes;
+
+(6) use NOOPE games and NOOPE game services through non NOOPE developed and authorized third-party software, plug-ins, systems, or make, publish and disseminate non NOOPE developed and authorized third-party software, plug-ins, systems;
+
+(7) to use, rent, lend, copy, modify, link, reprint, assemble, publish, and establish mirror sites for NOOPE ‘S intellectual property content in the game, establish mirror sites about NOOPE ‘S game, or take web page (Network) snapshots, or make use of setting up servers and other methods to provide other people with exactly the same or similar services as NOOPE ‘S game services, etc.;
+
+(8) separate any part of the game of NOOPE for separate use, or make other use that is not in accordance with this agreement;
+
+(9) use the name, trademark or other intellectual property rights of the game of NOOPE in a manner inconsistent with the provisions of this agreement;
+
+(10) other ACTS not expressly authorized by NOOPE.
+
+6.4 If you have any of the following behaviors during the use of NOOPE game services, NOOPE will temporarily or permanently prohibit you from logging in, deleting game account and game data, deleting relevant information and other processing measures according to the provisions of this Agreement and relevant game rules, depending on the seriousness of the circumstances. If the circumstances are serious, NOOPE will transfer to the relevant administrative authorities for administrative punishment, or pursue your punishment Responsibility:
+
+(1) use games and services to publish, transmit, disseminate and store content that endangers national security, national unity and social stability, or insult, slander, pornography, violence, cause others’ unease or violate social ethics and any national laws, regulations and policies, or set up screen names and role names containing the above contents.
+
+(2) use games and services to publish, transmit, disseminate and store content that infringes others’ intellectual property rights, trade secrets, portrait rights, privacy and other legal rights.
+
+(3) conduct any behavior endangering network security, including but not limited to: use unauthorized data or enter unauthorized server / account; enter public network or other terminal system without permission and delete, modify and add storage information; attempt to detect, scan and test the weakness of this “software” system or network without permission or other behaviors damaging network security ; attempt to interfere with or damage the normal operation of the “software” system or website, intentionally spread malicious programs or viruses and other acts that disrupt the normal network information service; forge the packet name or part of the name.
+
+(4) conduct any behavior that damages the fairness of NOOPE game service or other behaviors that affect the normal order of the game, such as actively or passively swiping points, cheating in partnership, using plug-ins or other cheating software, using bug (also known as “vulnerability” or “defect”) to obtain improper illegal interests, or make use of the Internet or other ways to expose plug-ins, cheating software, bug.
+
+(5) use NOOPE game for any business activities such as advertising and selling goods, or for any illegal violation NOOPE behavior of interests, such as selling game account, selling virtual items or information, illegal deposits, hire others to provide in-game services and pay remuneration outside the game, for example, for the purpose of profit-making, “money” and “acting training” services, for the purpose of profit-making, “virtual voucher” transactions, or provide intermediary services, advertising, etc.. Once discovered, NOOPE has the right to suspend the user account, and has the right to determine the duration of the suspension according to the degree of impact caused by you, and NOOPE has the right to recover and delete all the data that you improperly obtained.
+
+(6) post any fraudulent or false information by impersonating the administrator of NOOPE or game service.
+
+(7) various illegal plug-ins.
+
+(8) steal other people’s game accounts and game items.
+
+(9) trading of game account, game props, game equipment, game currency, etc.
+
+(10) take advantage of the possible technical defects or loopholes of online game system to make profits for themselves and others in various forms.
+
+(11) make use of all or part of the data and information generated in the process of using various charging or free games provided by NOOPE and stored in the game to make profits for themselves and others in various forms.
+
+(12) publicize the contents of plug-in, private service, agent training, currency swiping, Trojan horse, etc. or publicize the negative publicity of NOOPE.
+
+(13) unauthorized use of NOOPE’S products and services for profit in reality, as well as other widely recognized misconduct in the industry, whether or not it has been explicitly listed in this agreement.
+
+6.5 Except for the way of use specified in this agreement, you shall not do any of the following acts without the permission of NOOPE. If you want to do any of the following acts, please contact NOOPE to obtain the consent of NOOPE, and sign a written contract with NOOPE in electronic or paper form at its request:
+
+(1) modify, copy, distribute, rent, publish, translate, assemble, adapt and / or reprint the game or its various derivative works, or make them public through the Internet or other means.
+
+(2) to produce, manufacture, wholesale, sell, publish and / or distribute derivative works of the game.
+
+(3) provide testing, bug (also known as “vulnerability” or “defect”) and plug-ins tracking report, soft writing and promotion, competitive intelligence collection and other services for the game.
+
+(4) use the name and trademark of the game.
+
+(5) other behaviors related to game services that need the developer’s consent beyond the above behaviors.
+
+6.6 In case of any violation of this agreement or relevant laws and regulations, NOOPE has the right to take one or more of the following measures:
+
+(1) immediately disconnect the network connection between the terminal you are using and the application server. You must log in again to continue using the application.
+
+(2) you are temporarily not allowed to log in to online games with your current account.
+
+(3) you are temporarily prohibited from using one of the paid functions in the application until you pay off the outstanding fees and pay the corresponding fees in advance to continue using the above paid functions.
+
+(4) reduce or clear the points, ranks and / or honors of your current account in the application.
+
+(5) permanently and irrevocably delete the game items such as virtual currency, game props and / or game equipment illegally acquired by you, or return them to other users who have obtained their use rights through legal means.
+
+(6) permanently and irrevocably cancel or clear any points, grades and/or honors you have illegally acquired.
+
+(7) permanently and irrevocably delete all the game props, game equipment, game currency, points, grades, honors and other materials and the corresponding game data under the account item you are currently using.
+
+(8) permanently and irrevocably forbid you to log in the application with the account you are currently using, and delete and empty all data, game coin, props, equipment and other materials generated by the account in the application.
+
+(9) to take measures other than those listed above.
+
+NOOPE may take one or more of these measures continuously, intermittently, or alternately.
+
+If any account or role of the same user violates this agreement and other relevant provisions, NOOPE shall have the right to impose sanctions on all accounts and roles of such user, including but not limited to suspension, termination and deletion of all accounts of such user.
+
+Chapter 7 Download and Install The Software
+7.1 You may need to download and install relevant software to use the NOOPE game service. You can obtain the software directly from the relevant websites of NOOPE or from the third-party platform authorized by NOOPE. If you obtain a NOOPE game or a game with the same name as a NOOPE game from a third-party platform without the authorization of NOOPE, you will be deemed to have not obtained the authorization of NOOPE. NOOPE cannot guarantee the normal use of the game and will not be responsible for the loss caused to you.
+
+7.2 NOOPE may develop different software versions for different terminal devices or operating systems, including but not limited to multiple app versions such as iOS, Android, Windows phone, etc., you should choose the appropriate version to download according to the actual situation for installation. After downloading the installation program, you need to follow the steps suggested by the program to install it correctly.
+
+7.3 No more secure service provided, when installing the software, NOOPE may recommend you to install other software. You can choose to install or not to install the software.
+
+7.4 If you no longer need to use the software or need to install a new version, you can uninstall it yourself. If you would like to help NOOPE improve the product service, please inform the uninstall reason.
+
+7.5 In order to ensure the security and functional consistency of NOOPE game services, NOOPE reserves the right to update the software or change or limit some functional effects of the software without special notice to you.
+
+7.6 After the new version of the software is released, the old version of the software may not be available. NOOPE does not guarantee that the old version of the software and the corresponding customer service will continue to be available. Please check and download the latest version at any time.
+
+Chapter 8 Disclaimer
+8.1 NOOPE games and NOOPE game services are subject to the actual situation and version provided to you. NOOPE does not guarantee that NOOPE games and NOOPE game services will be error free and uninterrupted, that all defects have been corrected, or that NOOPE games and NOOPE game services will not be damaged by viruses or any other factors. Except as expressly provided by law, NOOPE expressly disclaims any warranty, express or implied, including, without limitation, any warranty as to the performance, applicability or non- infringement of NOOPE games and NOOPE game services.
+
+8.2 In any case, NOOPE shall not be liable for any loss you suffer in the course of using NOOPE games and NOOPE game services due to force majeure. Such force majeure events including but not limited to, national laws, regulations, policies, orders of state organs or other unpredictable, unavoidable and insurmountable events such as earthquake, fire, snow disaster, tsunami, typhoon, strike, war, etc.
+
+8.3 NOOPE may change, terminate or suspend your use of any NOOPE games and NOOPE game services at any time at its sole discretion based on the materials or information it knows or has, without giving you any prior notice, except as required by laws and regulations, this agreement or your agreement with NOOPE. If NOOPE terminates or suspends your use of any NOOPE games and NOOPE game services in accordance with the relevant provisions due to your violation of the provisions of laws and regulations or the provisions of this agreement, NOOPE shall not assume any responsibility to you and shall have the right to ask you to assume the corresponding responsibilities.
+
+8.4 NOOPE games and NOOPE game services may cause abnormal account data of your game characters, game props, game equipment and game currency due to game software bugs (also known as vulnerability, defects, etc.), version update defects, third-party virus attacks, Internet connections or any other factors. NOOPE reserves the right to temporarily freeze the game account until the cause of the data anomaly is found out. If the data exception is found to be abnormal game behavior, NOOPE shall have the right to restore the game account data to the original state before the occurrence of the exception (including recovering the transferred data from a third party), and NOOPE shall not assume any responsibility to you.
+
+8.5 NOOPE does not authorize you to obtain the game account number, game props, game equipment, game currency, etc. from any third party through purchase, acceptance of gift or other means. NOOPE shall not be responsible for the transaction of any third party, and shall not accept any appeal arising from any dispute arising from any third party transaction.
+
+8.6 You fully understand that the advertisements, links or other forms of promotional content provided by the third party in the game of NOOPE are provided by the third party itself, and you should judge the authenticity of the content by yourself. NOOPE does not make any express or implied warranty for the promotional content. For the services or goods you purchase through NOOPE or the websites to which it links, the transaction is only between you and the provider of the goods or services, and has nothing to do with NOOPE. NOOPE shall not bear any legal liability arising from the relationship between you and the provider of the goods or services.
+
+8.7 You fully understand that there is an objective situation of non- interoperability between different operating systems, which is not caused by NOOPE. As a result, the recharge and game data in one operating system may not be transferred to another operating system smoothly. The risk of top-up loss and game data loss caused by your switching between different systems shall be borne by you, and NOOPE shall not be required to bear any responsibility.
+
+Chapter 9 Privacy Policy
+9.1 NOOPE will take reasonable measures to protect users’ personal privacy information. Except as otherwise stipulated in this agreement, NOOPE game service will follow NOOPE’s uniform announced 《NOOPE PRIVACY POLICY》.
+
+Chapter 10 Legal Supervision
+10.1 You should abide by local laws and regulations and respect local customs when using NOOPE game services. If your act in violation of local laws, regulations or moral customs, you are solely responsible for this.
+
+10.2 You should avoid involving NOOPE in any dispute due to the use of NOOPE game services, otherwise NOOPE has the right to suspend or terminate your service.
+
+Chapter 11 Jurisdiction and Application of Law
+11.1 This agreement is signed in Haidian District, Beijing, People’s Republic of China.
+
+11.2 This agreement shall be governed by the laws and regulations of the People’s Republic of China.
+
+11.3 In the event of any dispute arising from or in connection with the performance of this agreement, the parties shall first settle the dispute through friendly negotiation. If no agreement can be reached through negotiation, either party may bring a suit in the people’s court which has jurisdiction over the case.
+
+11.4 The headings of all terms of this agreement are for the convenience of reading only and have no actual meaning and cannot be used as the basis for interpretation of the meaning of this agreement.
+
+11.5 No matter what causes some of the provisions of this agreement to be invalid, the remaining provisions shall remain valid and binding upon the parties.
+
+Chapter 12 Others
+12.1 According to the advice on healthy games from the General Administration of Press and Publication, NOOPE reminds you: resist bad games and reject pirated games; pay attention to self-protection, beware of being cheated; moderate play is good for the brain, but addiction is bad for the body.
+
+12.2 If you have any comments or suggestions on this agreement or NOOPE game service, please contact NOOPE, and we will give you necessary help. Contact information is as follows:
+
+Email:
+
+Effective date: March 16, 2020
